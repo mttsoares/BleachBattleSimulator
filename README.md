@@ -5,7 +5,7 @@ Simulador de batalha por turnos em **Java puro**, inspirado no universo de *Blea
 
 ## 🎯 Sobre o projeto
 
-Diferente de um simulador simplório que só sorteia um vencedor, aqui a batalha acontece de verdade: cada personagem tem vida (HP), energia espiritual (Reiatsu) e um conjunto de habilidades com custo e cooldown próprios. O combate é resolvido turno a turno, com um log detalhado de cada ação.
+Diferente de um simulador simplório que só sorteia um vencedor, neste projeto a vitória não é por acaso: cada personagem tem vida (HP), energia espiritual (Reiatsu) e um conjunto de habilidades com custo e cooldown próprios. O combate é resolvido turno a turno, com um log detalhado de cada ação.
 
 ## 🧱 Arquitetura
 
